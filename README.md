@@ -52,11 +52,11 @@ https://www.youtube.com/watch?v=K87GRUXJLl0
 8. Open GeForce Now and set Steam overlay default key to F7. Click to "Web browser" button. It will show your google doc. After that click F7 again to hide Steam overlay. So you should leave browser window open
 9. Have fun price checking in GeForce NOW
 
-If you have issues you can either delete config or change hotkey by clicking on the icon in tray
-
-![Screenshot 2023-11-10 234637](https://github.com/KloppstockBw/GFNPoEPriceCheck/assets/147773628/768c64b9-7170-4d4e-a0f7-3f18c1586b91)
+If you have issues you can either delete config or change hotkey by clicking on the icon in tray.
 
 # Troubleshooting
+First of all, troubleshooting: open Task Manager and close all instances of Awakened PoE Trade and GFNPoEPriceCheck. It should help in many cases, because they tend to get stuck and mess with each other.
+
 ## When I press F6 in GFN nothing is happening
 Check your hotkeys in Awakened Poe Trade. If you have changed it it has to be revert to default settings. Steps to fixing:
 1. Check Awakened Poe Trade debug log. If you see something like this:
